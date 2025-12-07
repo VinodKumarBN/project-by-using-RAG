@@ -1,0 +1,5 @@
+google-genai
+streamlit
+pypdf
+python-docx
+python-dotenv
